@@ -31,31 +31,25 @@
 | **SQL**                | Básico                 |
 | **Python**             | Básico                 |
 | **BPMN & Wireframes**  | Intermediário          |
-| **Automação com IA**   | Básico–Intermediário   |
+| **Automação com IA**   | Básico
 | **Lógica de Programação** | Intermediário       |
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 1. **Workflow de Qualificação de Leads** (OrchestraFlow)
-Automação inteligente completa usando **LLM** (GPT-4o e Claude).  
-Leads recebidos via webhook são analisados, recebem score 0–10, são classificados (Quente/Morno/Frio) e salvos automaticamente no Google Sheets.
-
-**Tecnologias:** LLM, Webhooks, Google Sheets, Automação
-
-### 2. **Evolua Já** — Plataforma de Desenvolvimento de Carreira
-Wireframe de baixa fidelidade completo com onboarding personalizado, definição de metas, plano de carreira semanal e dashboard de progresso.
-
-**Tecnologias:** UX Design, Prototipagem, Figma/Draw.io
-
-### 3. **Sistema de Revenda de Carros**
+### 1. **Sistema de Senha com LCD Keypad Shield (Arduino / C++)**
+Sistema de controle de acesso e validação de senha de 4 dígitos utilizando Arduino.
+**Funcionalidades:** Leitura analógica de teclas, máscara visual para senha (`* * * *`), navegação com indicador (`^`), limite de 3 tentativas e bloqueio temporário por 10 segundos com contagem regressiva em tempo real.
+**Tecnologias:** C++, Arduino, LiquidCrystal.
+  
+### 2. **Sistema de Revenda de Carros**
 Sistema de gerenciamento de estoque desenvolvido em **Portugol/Visualg**.  
 Funcionalidades: cadastro, listagem, busca por placa, filtro por ano e remoção de veículos.
 
 **Tecnologias:** Lógica de Programação, Portugol
 
-### 4. **Portfólio Pessoal** (este site)
+### 3. **Automação de envio de emails com a biblioteca PyAutogui (Python)** 
 Site responsivo e moderno desenvolvido do zero com HTML, CSS e JavaScript puro.
 
 ---
@@ -64,7 +58,7 @@ Site responsivo e moderno desenvolvido do zero com HTML, CSS e JavaScript puro.
 
 - **Email:** [matheusfreitasdacunha7@gmail.com](mailto:matheusfreitasdacunha7@gmail.com)
 - **LinkedIn:** [linkedin.com/in/matheusfreitasdacunha](https://www.linkedin.com/in/matheusfreitasdacunha/)
-- **GitHub:** [github.com/CunhaMth](https://github.com/CunhaMth)
+- **GitHub:** [github.com/CunhaMth](https://github.com/MatheusCunhaDEV)
 
 ---
 
@@ -75,4 +69,3 @@ Site responsivo e moderno desenvolvido do zero com HTML, CSS e JavaScript puro.
 
 ---
 
-Feito com ♥ por Matheus Cunha • 2026
