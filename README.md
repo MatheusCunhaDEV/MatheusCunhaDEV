@@ -58,7 +58,7 @@ Site responsivo e moderno desenvolvido do zero com HTML, CSS e JavaScript puro.
 
 - **Email:** [matheusfreitasdacunha7@gmail.com](mailto:matheusfreitasdacunha7@gmail.com)
 - **LinkedIn:** [linkedin.com/in/matheusfreitasdacunha](https://www.linkedin.com/in/matheusfreitasdacunha/)
-- **GitHub:** [github.com/CunhaMth](https://github.com/MatheusCunhaDEV)
+- **GitHub:** [github.com/MatheusCunhaDEV](https://github.com/MatheusCunhaDEV)
 
 ---
 
