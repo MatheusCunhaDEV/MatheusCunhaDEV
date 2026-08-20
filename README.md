@@ -1,4 +1,4 @@
-# Matheus Cunha — Desenvolvedor Web
+# Matheus Cunha — Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-%234ade80?style=for-the-badge" alt="Aberto a oportunidades">
@@ -15,8 +15,8 @@
 
 - 🌎 **Localização:** Gravataí, Rio Grande do Sul - Brasil
 - 🎯 **Foco atual:** Desenvolvimento Web Full Stack
-- 📚 **Formação:** Tecnologia em Desenvolvimento de Sistemas
-- 💡 **Interesses:** Automação com IA, UX/UI, APIs REST e lógica de programação
+- 📚 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 💡 **Interesses:** Automação com IA, SQL, Python e lógica de programação
 - 🟢 **Disponível** para estágio, freelas e colaborações
 
 ---
