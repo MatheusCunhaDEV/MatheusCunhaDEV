@@ -43,8 +43,8 @@ Sistema de controle de acesso e validação de senha de 4 dígitos utilizando Ar
 **Funcionalidades:** Leitura analógica de teclas, máscara visual para senha (`* * * *`), navegação com indicador (`^`), limite de 3 tentativas e bloqueio temporário por 10 segundos com contagem regressiva em tempo real.
 **Tecnologias:** C++, Arduino, LiquidCrystal.
   
-### 2. **Sistema de Revenda de Carros**
-Sistema de gerenciamento de estoque desenvolvido em **Portugol/Visualg**.  
+### 2. **Sistema de Locação de veículos**
+Sistema de gerenciamento de locação desenvolvido em **SQL**.  
 Funcionalidades: cadastro, listagem, busca por placa, filtro por ano e remoção de veículos.
 
 **Tecnologias:** Lógica de Programação, Portugol
