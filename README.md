@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Aberto%20a%20oportunidades-%234ade80?style=for-the-badge" alt="Aberto a oportunidades">
   <img src="https://img.shields.io/badge/Gravataí,%20RS-%23FF6B6B?style=for-the-badge" alt="Localização">
-   (https://github-stats-extended.vercel.app/api?username=MatheusCunhaDEV)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=MatheusCunhaDEV"/>
 </div>
 
 <br>
