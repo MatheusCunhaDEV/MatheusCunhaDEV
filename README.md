@@ -21,20 +21,11 @@
 
 ---
 
-## 🛠️ Tecnologias & Habilidades
-
-| Tecnologia              | Nível                  |
-|------------------------|------------------------|
-| **HTML5**              | Intermediário          |
-| **CSS3**               | Intermediário          |
-| **JavaScript**         | Básico–Intermediário   |
-| **SQL**                | Básico                 |
-| **Python**             | Básico                 |
-| **BPMN & Wireframes**  | Intermediário          |
-| **Automação com IA**   | Básico
-| **Lógica de Programação** | Intermediário       |
-
----
+<div align="center">
+  (https://github-stats-extended.vercel.app/api?username=anuraghazra)
+  - https://github-readme-stats.vercel.app/api?username=octocat&theme=radical
+  + https://github-stats-extended.vercel.app/api?username=octocat&theme=radical
+</div>
 
 ## 📂 Projetos em Destaque
 
