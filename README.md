@@ -19,7 +19,7 @@ Olá! Sou Matheus Freitas da Cunha, desenvolvedor em formação apaixonado por t
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCunhaDEVshow_icons=truetheme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCunhaDEV&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ---
@@ -28,7 +28,7 @@ Olá! Sou Matheus Freitas da Cunha, desenvolvedor em formação apaixonado por t
 
 **1. API Connect (`api-connect`)**
 * **Descrição:** API RESTful desenvolvida em Python com Flask para o gerenciamento estruturado de usuários, aplicando arquitetura modular (Controllers, Routes, Data), validação de entrada, tratamento de erros com códigos HTTP padronizados (200, 201, 400, 404) e documentação completa.
-* **Tecnologias:** Python, Flask, Postman, Git & GitHub.
+* **Tecnologias:** Python, Flask, Git & GitHub.
 * **Repositório:** [Acessar Projeto](https://github.com/MatheusCunhaDEV/api-connect)
 
 **2. DriveLoc — Locadora de Veículos (SQL)**
