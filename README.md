@@ -19,7 +19,7 @@ Olá! Sou Matheus Freitas da Cunha, desenvolvedor em formação apaixonado por t
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCunhaDEV&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MatheusCunhaDEVshow_icons=truetheme=radical" alt="GitHub Stats">
 </p>
 
 ---
