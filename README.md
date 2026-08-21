@@ -12,7 +12,7 @@ Olá! Sou Matheus Freitas da Cunha, desenvolvedor em formação apaixonado por t
 
 * **📍 Localização:** Gravataí, Rio Grande do Sul — Brasil
 * **🎓 Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas (Universidade Cruzeiro do Sul)
-* **💡 Interesses:** Desenvolvimento Back-end, Python, Flask, Bancos de Dados e Lógica de Programação
+* **💡 Interesses:** Desenvolvimento Back-end, Python, Bancos de Dados e Lógica de Programação
 * **💼 Disponibilidade:** Aberto a estágios em TI e colaborações
 
 ---
